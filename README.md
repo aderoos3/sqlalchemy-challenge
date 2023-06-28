@@ -1,5 +1,5 @@
 # sqlalchemy-challenge
-##Analysis of Hawaii vacation
+## Analysis of Hawaii vacation
 
 For this assignment, I started with a ipynb file, a sqlite database, app.py and two csv files for weather information in Hawaii. I started with the normal SQLAlchemy things, I created an engine to connectt to the database and I used automap_base to find my tables (keys) and save them for reference. Then I linked to a session. 
 
